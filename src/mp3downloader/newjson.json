@@ -1,0 +1,195 @@
+{
+    "Info": {
+        "ID": "IW9CB6DZ",
+        "Title": "vu thanh an",
+        "Artist": "",
+        "ArtistDetail": null,
+        "OwnerAcc": "steven_277",
+        "PictureURL": "http:\/\/static.mp3.zing.vn\/skins\/mp3_v3_16\/images\/avatar_default_82x82.jpg",
+        "CreatedDate": "8:00 s\u00e1ng 09\/10\/2011 ",
+        "TotalListen": 2253,
+        "Hit": 0,
+        "Official": 0
+    },
+    "Data": [{
+            "ID": "IW60DCWD",
+            "Title": "Anh \u0110\u1ebfn Th\u0103m Em \u0110\u00eam 30",
+            "Artist": "Tu\u1ea5n Ng\u1ecdc",
+            "Composer": "",
+            "Genre": "Nh\u1ea1c Tr\u1eef T\u00ecnh",
+            "GenreDetail": [{
+                    "GenreID": "IWZ9Z08B",
+                    "GenreName": "Nh\u1ea1c Tr\u1eef T\u00ecnh"
+                }],
+            "OwnerAcc": null,
+            "CreatedDate": "10:44 t\u1ed1i 01\/04\/2009 ",
+            "TotalListen": 56447,
+            "Hit": 0,
+            "Official": 0,
+            "ArtistAvatar": "http:\/\/static.mp3.zing.vn\/skins\/mp3_v3_16\/images\/avatar_default_82x82.jpg",
+            "MobilePath": "0\/22\/022cbb099c4e77102bf305d85fbb05b1.mp3",
+            "LinkPlay24": "http:\/\/stream4.mp3.zdn.vn\/ES3stAYFQh\/23963a72729834c49ec01ee30cb069df\/57650562\/0\/22\/022cbb099c4e77102bf305d85fbb05b1.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlay128": "http:\/\/stream.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/80c893f5ade6500052ae1572dd7c6f01\/57650562\/0\/22\/022cbb099c4e77102bf305d85fbb05b1.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlayEmbed": "http:\/\/mp3.zing.vn\/xml\/load-song\/MCUyRjIyJTJGMDIyY2JiMDk5YzRlNzcxMDJiZjMwNWQ4NWZiYjA1YjEubXAzJTdDMQ==",
+            "LinkDownload128": "http:\/\/dl.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/80c893f5ade6500052ae1572dd7c6f01\/57650562\/0\/22\/022cbb099c4e77102bf305d85fbb05b1.mp3?filename=Anh Den Tham Em Dem 30 - Tuan Ngoc.mp3",
+            "Link": "http:\/\/mp3.zing.vn\/bai-hat\/Anh-Den-Tham-Em-Dem-30-Tuan-Ngoc\/IW60DCWD.html",
+            "LinkHtml5": "http:\/\/mp3.zing.vn\/html5\/song\/ZmJHtlElQnEtyvHLm"
+        }, {
+            "ID": "ZWZAIEWE",
+            "Title": "T\u00ecnh Kh\u00fac Th\u1ee9 Nh\u1ea5t",
+            "Artist": "Kh\u00e1nh Ly",
+            "ArtistDetail": [{
+                    "ArtistID": 507,
+                    "ArtistName": "Kh\u00e1nh Ly",
+                    "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/1\/a\/1afa53ae43356857d3c1b1bd0dca07a9_1402295031.jpg"
+                }],
+            "Composer": "V\u0169 Th\u00e0nh An",
+            "Genre": "Vi\u1ec7t Nam, Nh\u1ea1c Tr\u1eef T\u00ecnh",
+            "GenreDetail": [{
+                    "GenreID": "IWZ9Z08I",
+                    "GenreName": "Vi\u1ec7t Nam"
+                }, {
+                    "GenreID": "IWZ9Z08B",
+                    "GenreName": "Nh\u1ea1c Tr\u1eef T\u00ecnh"
+                }],
+            "OwnerAcc": null,
+            "CreatedDate": "8:26 s\u00e1ng 19\/11\/2010 ",
+            "TotalListen": 48925,
+            "Hit": 0,
+            "Official": 0,
+            "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/165_165\/http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/1\/a\/1afa53ae43356857d3c1b1bd0dca07a9_1402295031.jpg",
+            "MobilePath": "2010\/11\/19\/8\/5\/85ac7b7a8e2171a4105322bdf7463852.mp3",
+            "LinkPlay24": "http:\/\/stream4.mp3.zdn.vn\/ES3stAYFQh\/c3f3bad95068e87339e014806c9abe84\/57650562\/2010\/11\/19\/8\/5\/85ac7b7a8e2171a4105322bdf7463852.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlay320": "http:\/\/stream-hq.mp3.zdn.vn\/fsgggsfdlwjglwjAAAAA\/5fcc16b8b2d37f4d8cbfef9509f8797d\/57650562\/2010\/11\/19\/8\/5\/85ac7b7a8e2171a4105322bdf7463852.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkDownload320": "http:\/\/dl-hq.mp3.zdn.vn\/AAAFQD8Ux3jSBsp6n1\/1c8c21fae9761fe96df70fd7ad40a6ba\/57650562\/2010\/11\/19\/8\/5\/85ac7b7a8e2171a4105322bdf7463852.mp3?filename=Tinh Khuc Thu Nhat - Khanh Ly.mp3",
+            "LinkPlay128": "http:\/\/stream2.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/584ac9a98b66fad1df928f12cc5e9e13\/57650562\/2010\/11\/19\/8\/5\/85ac7b7a8e2171a4105322bdf7463852.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlayEmbed": "http:\/\/mp3.zing.vn\/xml\/load-song\/MjAxMCUyRjExJTJGMTklMkY4JTJGNSUyRjg1YWM3YjdhOGUyMTcxYTQxMDUzMjJiZGY3NDYzODUyLm1wMyU3QzI=",
+            "LinkDownload128": "http:\/\/dl2.mp3.zdn.vn\/fsdd1131lwwjA\/c361bd9a04d583452552b29222c401db\/57650562\/2010\/11\/19\/8\/5\/85ac7b7a8e2171a4105322bdf7463852.mp3?filename=Tinh Khuc Thu Nhat - Khanh Ly.mp3",
+            "Link": "http:\/\/mp3.zing.vn\/bai-hat\/Tinh-Khuc-Thu-Nhat-Khanh-Ly\/ZWZAIEWE.html",
+            "LinkHtml5": "http:\/\/mp3.zing.vn\/html5\/song\/LGJnyLmNVNEASscttDnZn"
+        }, {
+            "ID": "ZWZAIEWD",
+            "Title": "Em \u0110\u1ebfn Th\u0103m Anh \u0110\u00eam 30",
+            "Artist": "Ng\u00f4 Ti\u1ebfn D\u0169ng",
+            "ArtistDetail": [{
+                    "ArtistID": 3686,
+                    "ArtistName": "Ti\u1ebfn D\u0169ng",
+                    "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/1\/d\/1d8a510ea1c87f84da302e4132ffe270_1297743552.jpg"
+                }],
+            "Composer": "V\u0169 Th\u00e0nh An",
+            "Genre": "Nh\u1ea1c Tr\u1eef T\u00ecnh, Vi\u1ec7t Nam",
+            "GenreDetail": [{
+                    "GenreID": "IWZ9Z08B",
+                    "GenreName": "Nh\u1ea1c Tr\u1eef T\u00ecnh"
+                }, {
+                    "GenreID": "IWZ9Z08I",
+                    "GenreName": "Vi\u1ec7t Nam"
+                }],
+            "OwnerAcc": null,
+            "CreatedDate": "8:23 s\u00e1ng 19\/11\/2010 ",
+            "TotalListen": 7607,
+            "Hit": 0,
+            "Official": 0,
+            "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/165_165\/http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/1\/d\/1d8a510ea1c87f84da302e4132ffe270_1297743552.jpg",
+            "MobilePath": "2010\/11\/19\/9\/6\/968ca9d86776c95be6118055e2892a04.mp3",
+            "LinkPlay24": "http:\/\/stream4.mp3.zdn.vn\/ES3stAYFQh\/4ce1b8b5cf6fefd69695442ce7d3a667\/57650562\/2010\/11\/19\/9\/6\/968ca9d86776c95be6118055e2892a04.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlay320": "http:\/\/stream-hq.mp3.zdn.vn\/fsgggsfdlwjglwjAAAAA\/137679e60ac645f196673dcc0ec50b43\/57650562\/2010\/11\/19\/9\/6\/968ca9d86776c95be6118055e2892a04.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkDownload320": "http:\/\/dl-hq.mp3.zdn.vn\/AAAFQD8Ux3jSBsp6n1\/8bd1fecdb704113cd106b15be1906dd7\/57650562\/2010\/11\/19\/9\/6\/968ca9d86776c95be6118055e2892a04.mp3?filename=Em Den Tham Anh Dem 30 - Ngo Tien Dung.mp3",
+            "LinkPlay128": "http:\/\/stream2.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/d2011c6e964a73de11f508a9807bcaea\/57650562\/2010\/11\/19\/9\/6\/968ca9d86776c95be6118055e2892a04.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlayEmbed": "http:\/\/mp3.zing.vn\/xml\/load-song\/MjAxMCUyRjExJTJGMTklMkY5JTJGNiUyRjk2OGNhOWQ4Njc3NmM5NWJlNjExODA1NWUyODkyYTA0Lm1wMyU3QzI=",
+            "LinkDownload128": "http:\/\/dl2.mp3.zdn.vn\/fsdd1131lwwjA\/2c4d454d1b0944751cf667684a954599\/57650562\/2010\/11\/19\/9\/6\/968ca9d86776c95be6118055e2892a04.mp3?filename=Em Den Tham Anh Dem 30 - Ngo Tien Dung.mp3",
+            "Link": "http:\/\/mp3.zing.vn\/bai-hat\/Em-Den-Tham-Anh-Dem-30-Ngo-Tien-Dung\/ZWZAIEWD.html",
+            "LinkHtml5": "http:\/\/mp3.zing.vn\/html5\/song\/LmcHtkGaVaRSSsayyDnZn"
+        }, {
+            "ID": "ZWZAIEW7",
+            "Title": "L\u1eddi T\u00ecnh Bu\u1ed3n",
+            "Artist": "Tu\u1ea5n Ng\u1ecdc",
+            "ArtistDetail": [{
+                    "ArtistID": 12,
+                    "ArtistName": "Tu\u1ea5n Ng\u1ecdc",
+                    "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/b\/8\/b85fef44a83138ce51c63802192848d0_1289210977.jpg"
+                }],
+            "Composer": "V\u0169 Th\u00e0nh An",
+            "Genre": "Nh\u1ea1c Tr\u1eef T\u00ecnh, Vi\u1ec7t Nam",
+            "GenreDetail": [{
+                    "GenreID": "IWZ9Z08B",
+                    "GenreName": "Nh\u1ea1c Tr\u1eef T\u00ecnh"
+                }, {
+                    "GenreID": "IWZ9Z08I",
+                    "GenreName": "Vi\u1ec7t Nam"
+                }],
+            "OwnerAcc": null,
+            "CreatedDate": "8:21 s\u00e1ng 19\/11\/2010 ",
+            "TotalListen": 43252,
+            "Hit": 0,
+            "Official": 0,
+            "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/165_165\/http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/b\/8\/b85fef44a83138ce51c63802192848d0_1289210977.jpg",
+            "MobilePath": "2010\/11\/19\/4\/9\/49c3e3475bfb0a3ac928f415a4ee9ac9.mp3",
+            "LinkPlay24": "http:\/\/stream4.mp3.zdn.vn\/ES3stAYFQh\/f47283756d9c3499fb87b07e3b1f61c6\/57650562\/2010\/11\/19\/4\/9\/49c3e3475bfb0a3ac928f415a4ee9ac9.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlay320": "http:\/\/stream-hq.mp3.zdn.vn\/fsgggsfdlwjglwjAAAAA\/6013398eaf03774883a264729c6d8f85\/57650562\/2010\/11\/19\/4\/9\/49c3e3475bfb0a3ac928f415a4ee9ac9.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkDownload320": "http:\/\/dl-hq.mp3.zdn.vn\/AAAFQD8Ux3jSBsp6n1\/1ec4d12b79299fbd5a829545e7b16b2b\/57650562\/2010\/11\/19\/4\/9\/49c3e3475bfb0a3ac928f415a4ee9ac9.mp3?filename=Loi Tinh Buon - Tuan Ngoc.mp3",
+            "LinkPlay128": "http:\/\/stream2.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/957cbac9a152a8b8524dd33a4e64e13e\/57650562\/2010\/11\/19\/4\/9\/49c3e3475bfb0a3ac928f415a4ee9ac9.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlayEmbed": "http:\/\/mp3.zing.vn\/xml\/load-song\/MjAxMCUyRjExJTJGMTklMkY0JTJGOSUyRjQ5YzNlMzQ3NWJmYjBhM2FjOTI4ZjQxNWE0ZWU5YWM5Lm1wMyU3QzI=",
+            "LinkDownload128": "http:\/\/dl2.mp3.zdn.vn\/fsdd1131lwwjA\/07f2c79d8029657d594e29c3773dce7b\/57650562\/2010\/11\/19\/4\/9\/49c3e3475bfb0a3ac928f415a4ee9ac9.mp3?filename=Loi Tinh Buon - Tuan Ngoc.mp3",
+            "Link": "http:\/\/mp3.zing.vn\/bai-hat\/Loi-Tinh-Buon-Tuan-Ngoc\/ZWZAIEW7.html",
+            "LinkHtml5": "http:\/\/mp3.zing.vn\/html5\/song\/ZHJHykmaVsilzNZTtvGLm"
+        }, {
+            "ID": "ZWZC96EO",
+            "Title": "\u0110\u1ec3 Qu\u00ean Con Tim",
+            "Artist": "Tu\u1ea5n Ng\u1ecdc",
+            "ArtistDetail": [{
+                    "ArtistID": 12,
+                    "ArtistName": "Tu\u1ea5n Ng\u1ecdc",
+                    "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/b\/8\/b85fef44a83138ce51c63802192848d0_1289210977.jpg"
+                }],
+            "Composer": "",
+            "Genre": "Nh\u1ea1c Tr\u1eef T\u00ecnh, Vi\u1ec7t Nam",
+            "GenreDetail": [{
+                    "GenreID": "IWZ9Z08B",
+                    "GenreName": "Nh\u1ea1c Tr\u1eef T\u00ecnh"
+                }, {
+                    "GenreID": "IWZ9Z08I",
+                    "GenreName": "Vi\u1ec7t Nam"
+                }],
+            "OwnerAcc": null,
+            "CreatedDate": "12:55 tr\u01b0a 05\/07\/2011 ",
+            "TotalListen": 30761,
+            "Hit": 0,
+            "Official": 0,
+            "ArtistAvatar": "http:\/\/image.mp3.zdn.vn\/thumb\/165_165\/http:\/\/image.mp3.zdn.vn\/thumb\/94_94\/avatars\/b\/8\/b85fef44a83138ce51c63802192848d0_1289210977.jpg",
+            "MobilePath": "2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3",
+            "LinkPlay24": "http:\/\/stream4.mp3.zdn.vn\/ES3stAYFQh\/4ced536d33e0c99c3a43ba97ea7a8855\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlay320": "http:\/\/stream-hq.mp3.zdn.vn\/fsgggsfdlwjglwjAAAAA\/c64035982ff101dbb779258d24a3d0b8\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkDownload320": "http:\/\/dl-hq.mp3.zdn.vn\/AAAFQD8Ux3jSBsp6n1\/f325f3cac429cd632236e01f5955dbb9\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?filename=De Quen Con Tim - Tuan Ngoc.mp3",
+            "LinkPlay128": "http:\/\/stream2.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/59cacb0b7792ab9569c86293ff43439a\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlayEmbed": "http:\/\/mp3.zing.vn\/xml\/load-song\/MjAxMSUyRjA3JTJGMDUlMkY3JTJGMCUyRjcwOWU4MmJiMTgwNDc1MzhkMjNmZTNkOWJhNjVlYzgxLm1wMyU3QzI=",
+            "LinkDownload128": "http:\/\/dl2.mp3.zdn.vn\/fsdd1131lwwjA\/c0dd29494e40bde9a802ac5c3b142d28\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?filename=De Quen Con Tim - Tuan Ngoc.mp3",
+            "Link": "http:\/\/mp3.zing.vn\/bai-hat\/De-Quen-Con-Tim-Tuan-Ngoc\/ZWZC96EO.html",
+            "LinkHtml5": "http:\/\/mp3.zing.vn\/html5\/song\/LGJmyZGsdRWhlpLTtDnZm"
+        }, {
+            "ID": "IWZDEAEB",
+            "Title": "Tr\u1ea3 H\u1ebft Cho Ng\u01b0\u1eddi",
+            "Artist": "Nguy\u1ec5n H\u01b0ng",
+            "Composer": "",
+            "Genre": "Th\u1ec3 lo\u1ea1i kh\u00e1c",
+            "GenreDetail": [{
+                    "GenreID": null,
+                    "GenreName": "Th\u1ec3 lo\u1ea1i kh\u00e1c"
+                }],
+            "OwnerAcc": null,
+            "CreatedDate": "7:38 t\u1ed1i 26\/05\/2008 ",
+            "TotalListen": 47633,
+            "Hit": 0,
+            "Official": 0,
+            "ArtistAvatar": "http:\/\/static.mp3.zing.vn\/skins\/mp3_v3_16\/images\/avatar_default_82x82.jpg",
+            "MobilePath": "6\/a5\/6a5bbe67217095d1d5dffed5b363059e.mp3",
+            "LinkPlay24": "http:\/\/stream4.mp3.zdn.vn\/ES3stAYFQh\/0d91e2e94aa75d000014dcec19896ce8\/57650562\/6\/a5\/6a5bbe67217095d1d5dffed5b363059e.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlay320": "http:\/\/stream-hq.mp3.zdn.vn\/fsgggsfdlwjglwjAAAAA\/c64035982ff101dbb779258d24a3d0b8\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkDownload320": "http:\/\/dl-hq.mp3.zdn.vn\/AAAFQD8Ux3jSBsp6n1\/f325f3cac429cd632236e01f5955dbb9\/57650562\/2011\/07\/05\/7\/0\/709e82bb18047538d23fe3d9ba65ec81.mp3?filename=Tra Het Cho Nguoi - Nguyen Hung.mp3",
+            "LinkPlay128": "http:\/\/stream.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/45608b4fc0991ac186180d8eae6e363d\/57650562\/6\/a5\/6a5bbe67217095d1d5dffed5b363059e.mp3?q=6706b1c6f55b2c836ef74a87ae17c39b&amp;t=1466238306",
+            "LinkPlayEmbed": "http:\/\/mp3.zing.vn\/xml\/load-song\/NiUyRmE1JTJGNmE1YmJlNjcyMTcwOTVkMWQ1ZGZmZWQ1YjM2MzA1OWUubXAzJTdDMQ==",
+            "LinkDownload128": "http:\/\/dl.mp3.zdn.vn\/fsfsdfdsfdserwrwq3\/45608b4fc0991ac186180d8eae6e363d\/57650562\/6\/a5\/6a5bbe67217095d1d5dffed5b363059e.mp3?filename=Tra Het Cho Nguoi - Nguyen Hung.mp3",
+            "Link": "http:\/\/mp3.zing.vn\/bai-hat\/Tra-Het-Cho-Nguoi-Nguyen-Hung\/IWZDEAEB.html",
+            "LinkHtml5": "http:\/\/mp3.zing.vn\/html5\/song\/LmJGyBHLhNpTTvHLn"
+        }]
+}
